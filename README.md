@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Caio Santos
 
-🚀 **Computer Engineering Student** 🇧🇷 Brazil
+🚀 **Computer Engineering Student** | Brazil
 
 Constantly evolving in the Data field, building **interactive dashboards** and **functional interfaces for decision-making**.
 
